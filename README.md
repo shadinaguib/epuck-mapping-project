@@ -4,7 +4,7 @@ This project was done during the third year of the Micro Engineering Bachelor de
 
 The robot first makes a map of the environment with a TOF sensor, and then visits the several obstacles and behaves differently depending on the color of the obstacle, as seen in the GIF below (watch mp4 video for sound). 
 
-![Demo](demo / GIF)
+![Demo](demo.gif / GIF)
 
 
 
